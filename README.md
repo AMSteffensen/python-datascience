@@ -11,8 +11,8 @@ then plots out numbers based on user input.
 It takes CSV data exported from Stripe and does a plot of monthly reccuring revenue. 
 It also does calcualtions on invoices and debt collection, and shows how coivd19 affected business. 
 
-** GIST **
-https://gist.github.com/AMSteffensen/5dc8950a8715608e5bdf92632af0ac42
+### My code
+[See my code](https://gist.github.com/AMSteffensen/5dc8950a8715608e5bdf92632af0ac42)
 
+### Colab example image
 <img width="664" alt="Screenshot 2022-07-24 at 22 58 41" src="https://user-images.githubusercontent.com/25030428/180665664-33517f0c-f759-4cf1-a64d-b63bd673f650.png">
-This plot shows the retail value of items rented out from early 2020 to 2022
